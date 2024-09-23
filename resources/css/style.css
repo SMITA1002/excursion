@@ -1,0 +1,39 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+/* HEADINGS */
+
+.header {
+    font-size: 50px;
+    font-weight: normal;
+    color: #ffffff;
+}
+
+.header2 {
+    font-weight: 300;
+    font-size: 42px;
+    color:#ffffff;
+}
+
+.header4 {
+    font-size: 21px;
+    color:grey;
+}
+
+/* LINKS */
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* FOOTER */
+.footer {
+    color: grey;
+    font-size: 21px;
+    text-align: right;
+}
